@@ -69,6 +69,4 @@ Sreenshot------------
 
 ---
 
-## ⭐ Show Your Support
-If you found this project useful, don’t forget to **star** 🌟 this repository!  
-Your feedback and suggestions are always welcome 🙌
+
